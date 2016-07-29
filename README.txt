@@ -1,5 +1,6 @@
 # nodoboyare
-IncubateX team repo
+
+Team repo
 
 ## Участники
 
