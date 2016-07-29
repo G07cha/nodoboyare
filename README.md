@@ -1,2 +1,0 @@
-# nodoboyare
-IncubateX team repo
