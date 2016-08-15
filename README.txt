@@ -14,3 +14,6 @@ Team repo
 
 - Party lunch(ideas/party-lunch.md)
 Приложение для упрощения сбора заказов на еду для сотрудников или просто компании друзей.
+
+- Skype git bot(ideas/skype-git-bot.md)
+Бот для интеграции с GitHub и прочими хостинг-сервисами.
